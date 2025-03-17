@@ -1,4 +1,4 @@
-# Tigran Gasparyan
+# Rafayel Mkhitaryan
 <!--**`Junior FUll Stack Developer`**-->
 
 ### 🧰 Languages and Tools

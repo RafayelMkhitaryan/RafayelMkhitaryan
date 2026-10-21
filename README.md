@@ -1,24 +1,51 @@
-# Rafayel Mkhitaryan
-<!--**`Junior FUll Stack Developer`**-->
+# Hi, I'm a Software QA Engineer
 
-### 🧰 Languages and Tools
+### Experience in Backend, API, and Data Testing
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="Django Logo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+I test backend systems, REST APIs, databases, and data-intensive
+applications. My background in Python backend development helps me
+understand system behavior, investigate defects, and communicate
+effectively with developers.
 
- 
+## QA Focus
 
-### 📊 Stats
+### Functional Testing
 
-![Rafayel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafayelMkhitaryan&show_icons=true&theme=gruvbox)
+- Functional testing
+- Regression testing
+- Smoke and sanity testing
+- Exploratory testing
+- Negative testing
+- Boundary value testing
 
-<!--#
-<details>
-<summary><h3>👨‍💻 Rafayel's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself PHP/Laravel development with a dream to start working and creating something new. Every day after lessons i come home and start learning new or writing code for my own websites.
--->
+### Backend and API Testing
+
+- REST API testing
+- Backend testing
+- Integration testing
+- Authentication and authorization testing
+- API contract validation
+- Error response validation
+
+### Data Testing
+
+- ETL testing
+- Data validation
+- Database testing
+- Data quality checks
+
+### QA Process
+
+- Checklist creation
+- Bug reporting
+- Defect investigation
+- Requirements analysis
+- Test planning
+
+## Technologies and Tools
+
+- **Languages:** Python, SQL
+- **Backend:** FastAPI
+- **API Testing:** Postman
+- **Databases:** PostgreSQL, ClickHouse
+- **Tools & Workflow:** Docker, Docker Compose, GitHub
